@@ -1,4 +1,4 @@
-## **Description**
+# **Description**
 
 Hello and welcome to my vegan shop 🥑🍏😀
 
@@ -9,3 +9,7 @@ This software will be able to perform the following tasks:
 *   List products in stock
 *   Update information about a product(such as selling price, quantity and purchase price)
 *   Keep track of profits and sales
+
+# **Caveat**
+
+This project constitutes the final examination of the introductory course in Python produced by Profession AI. 
